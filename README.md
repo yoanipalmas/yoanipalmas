@@ -2,7 +2,8 @@
 <h3 align="center">Career & People Strategy for Startups</h3>
 
 <p align="center">
-Understanding work, teams and decisions.
+<strong>Companies don’t fail because of technology.  
+They fail because of how they manage people.</strong>
 </p>
 
 ---
@@ -17,50 +18,33 @@ I work at the intersection of:
 
 I help founders and professionals make better decisions around teams, structure and growth.
 
-Not just hiring.  
-Not just coaching.  
-
 → Clarity, structure and real understanding of how work actually works.
-
----
-
-## 🚀 What I’m working on
-
-- Building **Career Insights**  
-- Helping startups design their team structure before scaling  
-- Creating content about careers, leadership and work  
 
 ---
 
 ## 🔗 Connect with me
 
-<p align="left">
-<a href="https://linkedin.com/in/yoanipalmas" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<p align="center">
+<a href="https://linkedin.com/in/yoanipalmas">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
 </a>
-<a href="https://instagram.com/anipt3" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/anipt3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40"/>
 </a>
 </p>
 
 ---
 
-## 🛠️ Background (Tech)
+## 🛠️ Tech Background
 
-<p align="left">
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
 </p>
-
----
-
-## 💡 Current focus
-
-> Companies don’t fail because of technology.  
-> They fail because of how they manage people.
 
 ---
 
